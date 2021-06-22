@@ -1,4 +1,4 @@
-Testing line update
+TEsting new Line
 Untesting line
 Commit TEST
 привет
@@ -7,3 +7,4 @@ Add Line
 Good
 new branch line
 new btanch line
+new line for gui
